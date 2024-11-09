@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-2 {
+        font-family: AcuminConcept-Bold, 'Acumin Variable Concept';
+        font-size: 312.87px;
+        font-variation-settings: 'wght' 700, 'wdth' 100, 'slnt' 0;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5, .cls-3 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-5" points="311.13 475.22 233.4 428.7 233.4 272.71 308.19 233.99 311.13 475.22"/>
+    <polygon class="cls-5" points="312.88 475.22 387.02 422.53 310.32 237.85 312.88 475.22"/>
+  </g>
+  <g>
+    <polygon class="cls-3" points="353.23 4.78 108.55 150.74 219.48 213.7 353.23 4.78"/>
+    <polygon class="cls-3" points="107.62 152.56 107.62 195.73 219.8 261.71 218.83 215.63 107.62 152.56"/>
+  </g>
+  <g>
+    <polygon class="cls-3" points="232.15 215.63 475.47 71.1 362.93 6.42 232.15 215.63"/>
+    <polygon class="cls-3" points="393.6 410.72 314.59 221.07 231.2 264.33 230.06 219.24 476.4 72.93 476.4 119.34 392.61 167.49 393.6 410.72"/>
+  </g>
+  <text class="cls-2" transform="translate(609.26 383.22)"><tspan class="cls-1" x="0" y="0">T</tspan><tspan class="cls-7" x="165.82" y="0">r</tspan><tspan class="cls-4" x="283.77" y="0">ac</tspan><tspan x="625.43" y="0">k </tspan><tspan class="cls-6" x="875.41" y="0">i</tspan><tspan x="960.82" y="0">t</tspan></text>
+</svg>
